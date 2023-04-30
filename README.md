@@ -61,7 +61,7 @@ namespace exp5
 ```
 
 ## Output:
-
+![o](https://user-images.githubusercontent.com/93427237/230870391-2ca1ea39-27e6-4166-a3af-ff6710b2bfef.png)
 
 ## Result:
 Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
