@@ -22,8 +22,8 @@ End of the Program.
 
 Program:
 ```
-Developed By: Shafeeq Ahamed.S
-Register No: 2122212300
+Developed By: Silambarasan K
+Register No: 212221230101
 ```
 ```c#
 using System;
