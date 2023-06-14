@@ -1,7 +1,8 @@
-# Ex05-Rec-JaggedArray
-## Aim:
+## Ex-5 JaggedArray
+### Date:25/4/2023
+### Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
-## Algorithm:
+### Algorithm:
 ### Step 1:
 Create a new Class named cpu.
 
@@ -17,10 +18,10 @@ Give the sample CPU usage in the jagged array.
 ### Step 5:
 Print the sample CPU usage in the jagged array.
 
-Step 6:
+### Step 6:
 End of the Program.
 
-Program:
+### Program:
 ```
 Developed By: Silambarasan K
 Register No: 212221230101
@@ -60,8 +61,8 @@ namespace exp5
 }
 ```
 
-## Output:
+### Output:
 ![o](https://user-images.githubusercontent.com/93427237/230870391-2ca1ea39-27e6-4166-a3af-ff6710b2bfef.png)
 
-## Result:
+### Result:
 Thus,C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
